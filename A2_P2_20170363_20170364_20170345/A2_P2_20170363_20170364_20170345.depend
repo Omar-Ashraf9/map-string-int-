@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1552863531 source:g:\college\files\a2_p2_20170363_20170364_20170345\main.cpp
+	<iostream>
+	<map>
+	<string>
+	<cstring>
+	<algorithm>
+	<vector>
+
